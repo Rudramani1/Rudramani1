@@ -7,11 +7,11 @@ Student of CSE(AIML) --(STILL LEARNING)
 I'm Rudra Mani Upadhyay, a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning at Dronacharya College of Engineering. Passionate about technology and driven by curiosity, I’m eager to explore innovative projects, expand my skill set, and dive into the endless possibilities that AI and ML offer to shape the future!
 
 * 🌍  I'm based in New Delhi ,India
-* 🖥️  See my portfolio at [more about me](http://kajfgajl.com)
+* 🖥️  See my portfolio at [more about me][in progress](http://.com)
 * ✉️  You can contact me at [rudramaniupadhyay3@gmail.com](mailto:rudramaniupadhyay3@gmail.com)
-* 🚀  I'm currently working on [new project](http://lkjshfg.com)
-* 🧠  I'm learning Pandas ,Matplotlib
-* 🤝  I'm open to collaborating on Projects related to
+* 🚀  I'm currently working on [Portfolio](http://lkjshfg.com)
+* 🧠  I'm learning C++
+* 🤝  I'm open to collaborating on Projects related to Machine Learning
 
 ### Skills
 
