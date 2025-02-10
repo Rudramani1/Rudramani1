@@ -8,7 +8,7 @@ I'm Rudra Mani Upadhyay, a B.Tech CSE student specializing in Artificial Intelli
 
 * 🌍  I'm based in New Delhi ,India
 * 🖥️  See my portfolio at [in progress] [more about me](https://rudramani1.github.io/Portfolio/)
-* ✉️  You can contact me at [rudramaniupadhyay3@gmail.com](mailto:rudramaniupadhyay651@gmail.com)
+* ✉️  You can contact me at [rudramaniupadhyay3@gmail.com](mailto:rudramaniupadhyay3@gmail.com)
 * 🚀  I'm currently working on [Portfolio](https://rudramani1.github.io/Portfolio/)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on Projects related to Machine Learning
