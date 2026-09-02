@@ -76,7 +76,7 @@ const rudra = {
 
 ## 🎯 Current Focus
 
-- 🔭 Building my **[Portfolio Website](https://portfolio-delta-five-7yby9e7zpm.vercel.app/)**
+- 🔭 Building my **[Meetings](https://github.com/Rudramani1/Meeting)**
 - 🌱 Deepening my knowledge in **Python & Machine Learning**
 - 👯 Open to collaborate on **ML/AI Projects**
 - 💡 Exploring **innovative AI applications** to solve real-world problems
