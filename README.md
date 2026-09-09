@@ -83,22 +83,6 @@ const rudra = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rudramani1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudramani1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
-</div>
-
----
-
 <div align="center">
   
 ### 💭 Random Dev Quote
@@ -110,8 +94,6 @@ const rudra = {
 ![](https://komarev.com/ghpvc/?username=Rudramani1&color=00D9FF&style=for-the-badge)
 
 ---
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 ⭐️ From [Rudramani1](https://github.com/Rudramani1)
 
